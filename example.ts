@@ -1,1 +1,1 @@
-console.log("Demo of braanching")
+console.log("Demo of branching")
