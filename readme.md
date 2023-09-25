@@ -19,3 +19,13 @@
 * git add *
     * This will add all changes in the current directory but not the sub directory.
 * git add -all OR git add -A
+
+# VS Code Demo
+* On the LHS, tree with three circles, git GUI tool.
+* To commit the change, three things
+    * Type a message for git to highlight what has been changed. 
+    * vvb
+
+* Using the 'git changes' window, we can use GUI.
+* Else, click view and then git changes.
+
