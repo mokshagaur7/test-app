@@ -24,8 +24,7 @@
 * On the LHS, tree with three circles, git GUI tool.
 * To commit the change, three things
     * Type a message for git to highlight what has been changed. 
-    * vvb
+    * Click + next to Changes
+    * Click 'Commit and Push'
 
-* Using the 'git changes' window, we can use GUI.
-* Else, click view and then git changes.
 
